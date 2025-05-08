@@ -15,16 +15,16 @@
 </details><details><B><summary> Versiyon 4.0 ► 27.06.2024</B></summary>
 
     • VHD oluştur bölümünde disk isim tanımlaması için ve sistem açılışında VHD'nin aktifleştirilmesiyle alakalı kullanıcı sorguları eklendi.
-	• VHD boyutunu yükseltmesi için ayrı bir bölüm oluşturuldu.
-	• Katılımsız kurulum aracı hazırlandı
-	
+    • VHD boyutunu yükseltmesi için ayrı bir bölüm oluşturuldu.
+    • Katılımsız kurulum aracı hazırlandı
+    
 </details><details><B><summary> Versiyon 3.0 ►  07.05.2024</B></summary>
 
-	•"VHD'yi yeniden tanımla" bölümüne kontrol komutları eklendi.
+    •"VHD'yi yeniden tanımla" bölümüne kontrol komutları eklendi.
 
 </details><details><B><summary> Versiyon 2.0 ►  05.05.2024</B></summary>
 
-	• Dil komutlarındaki sabit değişken hatası giderildi.
-		• Uygulama sürekli olarak ingilizce dilinde açılıyordu. Bu sorun giderildi.
-	
+    • Dil komutlarındaki sabit değişken hatası giderildi.
+        • Uygulama sürekli olarak ingilizce dilinde açılıyordu. Bu sorun giderildi.
+    
 </details>
