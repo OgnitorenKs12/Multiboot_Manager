@@ -14,7 +14,7 @@ All rights of the work belong to Hüseyin UZUNYAYLA. It is forbidden to develop,
 
 - Multiboot manager works on Windows 10/11 systems.
 
-<details><B><summary> 1- Create VHD</B></summary>
+<details><summary><B> 1- Create VHD</B></summary>
 
 - This section allows you to create a VHD (Virtual Hard Disk). 
 - In the "Define the VHD Path:" section you need to type the location and name where you will create the VHD. You don't have to type the extension, it will complete it automatically. It is also fine if you write it.
@@ -26,7 +26,7 @@ All rights of the work belong to Hüseyin UZUNYAYLA. It is forbidden to develop,
 
 ![Tool1](https://raw.githubusercontent.com/OgnitorenKs12/Multiboot_Manager/main/.github/Manager/1.png)
 
-</details><details><B><summary> 2- Windows installation</B></summary>
+</details><details><summary><B> 2- Windows installation</B></summary>
 
 - In this section you can quickly install Windows by inserting the ISO you have into the system or extracting it to any folder and defining its path. You can give the path to the folder path of the image or directly to the install.wim/esd file.
 
@@ -44,14 +44,14 @@ All rights of the work belong to Hüseyin UZUNYAYLA. It is forbidden to develop,
 
 ![Tool2.4](https://raw.githubusercontent.com/OgnitorenKs12/Multiboot_Manager/main/.github/Manager/2.4.png)
 
-</details><details><B><summary> 3- Redefine VHD</B></summary>
+</details><details><summary><B> 3- Redefine VHD</B></summary>
 
 - If you back up the VHD file and do a clean install on your main system. Then you can continue to use your multiboot system by defining the VHD from this section.
 - After entering this section, you need to define the path to the VHD file. After the definition process, it makes the VHD file visible and sets it as the system to be opened by default. If you reboot the system, VHD will start from the system on disk.
 
 ![Tool3](https://raw.githubusercontent.com/OgnitorenKs12/Multiboot_Manager/main/.github/Manager/3.png)
 
-</details><details><B><summary> 4- Increase VHD size</B></summary>
+</details><details><summary><B> 4- Increase VHD size</B></summary>
 
 - WARNING: Before doing anything in this section, you must right-click on the attached VHD from "This computer" and remove it
 - WARNING: In this section you can only upgrade the VHD size
